@@ -1,0 +1,10 @@
+# MY BIO
+
+##  HELLO THERE,
+
+I’m a designer who combines creativity with
+practicality. I bring a new outlook to both interior
+and graphic design. My work is inspired by
+storytelling and attention to detail. I create spaces
+and visuals that connect strongly with those who
+experience them.
