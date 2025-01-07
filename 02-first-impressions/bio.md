@@ -1,6 +1,6 @@
 # MY BIO
 
-##  HELLO THERE,
+##  HEY THERE!
 
 I’m a designer who combines creativity with
 practicality. I bring a new outlook to both interior
