@@ -61,4 +61,5 @@ The case study highlights the importance of balancing aesthetics with usability 
 ![main render 3](https://github.com/user-attachments/assets/9ca196e2-bd9f-412f-8308-680cb8cf4834)
 
 **Second floor with fashion accessories**  
+![main render 5](https://github.com/user-attachments/assets/7bf636ec-c976-46bc-a635-ce7a0f7f488f)
 
