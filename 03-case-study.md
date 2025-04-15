@@ -58,7 +58,7 @@ The case study highlights the importance of balancing aesthetics with usability 
 ![main render1](https://github.com/user-attachments/assets/7b1e7f80-a1e1-45df-b07e-4f9599f1662e)
 
 **Created rest room / cafe in shop**  
-![Cafe Area](your-image-path/cafe-area.jpg)
+![main render 3](https://github.com/user-attachments/assets/9ca196e2-bd9f-412f-8308-680cb8cf4834)
 
 **Second floor with fashion accessories**  
-![Second Floor](your-image-path/second-floor.jpg)
+
