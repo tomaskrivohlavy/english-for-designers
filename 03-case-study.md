@@ -55,7 +55,7 @@ The case study highlights the importance of balancing aesthetics with usability 
 ## Pictures  
 
 **Main hall with counter**  
-![Main Hall](your-image-path/main-hall.jpg)
+your-image-path/main-hall.jpg
 
 **Created rest room / cafe in shop**  
 ![Cafe Area](your-image-path/cafe-area.jpg)
