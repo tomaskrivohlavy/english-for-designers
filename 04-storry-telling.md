@@ -78,7 +78,7 @@ Whether physical or visual, the work should feel grounded, useful, and human.
 
 ---
 
-![closing.jpg](images/closing.jpg)
+
 
 ## 10 — What I Believe  
 Design is not decoration.  
