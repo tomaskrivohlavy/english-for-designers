@@ -1,89 +1,86 @@
-# STORYTELLING: Design That Listens  
-*A journey through space, systems and meaning*
+# 04 — STORYTELLING  
+*A designer’s perspective on clarity, space and responsibility*
 
 ---
 
-![portrait.jpg](images/portrait.jpg)
+
 
 ## 01 — Who I Am  
-I’m a designer who thinks in systems, feels in textures,  
-and always asks “Why does this matter?”
+I’m a designer working across interior and graphic design.  
+I care about form, function and how design shapes everyday experience.
 
 ---
 
-![notebooks.jpg](images/notebooks.jpg)
 
-## 02 — Where I Started  
-My curiosity started early:  
-obsession with notebooks, surfaces, light.  
-I studied both graphic and interior design — but never chose one.
 
----
-
-![recycling.jpg](images/recycling.jpg)
-
-## 03 — My Question  
-Can design be responsible?  
-Can it be beautiful *and* necessary?  
-My work asks: What do we already have — and how can we reuse it?
+## 02 — A Dual Perspective  
+I studied both visual communication and spatial design.  
+It taught me to think in systems — how things look, how they feel, and how they work.  
+I don’t separate identity from space — they reinforce each other.
 
 ---
 
-![textile-wall.jpg](images/textile-wall.jpg)
 
-## 04 — Materials as Message  
-I work with recycled textiles,  
-modular furniture, unfinished structures —  
-materials that carry memory, contradiction, and context.
 
----
-
-![studio.jpg](images/studio.jpg)
-
-## 05 — The Studio as Lab  
-I see the studio not as a showroom,  
-but as a place to test, break, learn.  
-Every prototype tells me what not to do next.
+## 03 — What Matters to Me  
+Design should serve more than trends.  
+I look for long-term solutions that combine clarity, usability and aesthetic value —  
+whether it's a visual identity or a retail interior.
 
 ---
 
-![installation.jpg](images/installation.jpg)
 
-## 06 — Design = Dialogue  
-My installations invite people to move, rest, reconfigure.  
-Good design doesn’t speak loudly. It listens back.
 
----
-
-![branding.jpg](images/branding.jpg)
-
-## 07 — Identity Beyond Logo  
-Whether it’s space or visual identity,  
-I build systems that adapt —  
-not just brands, but behaviors.
+## 04 — Responsible Choices  
+I work with materials that make sense for the context —  
+durable, efficient, and when possible, sustainable.  
+Good design should be responsible without shouting about it.
 
 ---
 
-![people.jpg](images/people.jpg)
 
-## 08 — Always Human  
-No matter the medium, I design for attention, care, and access.  
-My work isn’t just for the eye — it's for the body, too.
+
+## 05 — Process and Practice  
+Every project starts with understanding people, needs and constraints.  
+From there, I design systems — visual or spatial — that support clarity and coherence.
 
 ---
 
-![map.jpg](images/map.jpg)
 
-## 09 — Where I'm Going  
-I’m building a practice where  
-aesthetics meet ethics,  
-and design becomes part of something bigger.
+
+## 06 — Identity as System  
+Branding isn’t just about logos.  
+I create visual identities that are flexible, honest, and aligned with the client's purpose.  
+Design is a language — and I focus on fluency.
+
+---
+
+
+## 07 — Interiors as Experience  
+Space is communication in 3D.  
+I design environments that reflect identity, support flow, and feel intentional — from layout to lighting.
+
+---
+
+
+
+## 08 — With the Client  
+Collaboration isn’t just part of the process — it is the process.  
+I listen carefully, think critically, and adapt — because every project is different.
+
+---
+
+
+
+## 09 — Practice Direction  
+I aim to build a design practice rooted in clarity, adaptability and care.  
+Whether physical or visual, the work should feel grounded, useful, and human.
 
 ---
 
 ![closing.jpg](images/closing.jpg)
 
-## 10 — Let’s Rethink Value  
-What’s valuable today?  
-Maybe not more things — but better systems, better questions,  
-and better ways to care.
+## 10 — What I Believe  
+Design is not decoration.  
+It’s structure, decision, atmosphere.  
+And when done well, it becomes invisible — because it simply works.
